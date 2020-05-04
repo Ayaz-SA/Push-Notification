@@ -5,14 +5,14 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyDaz-yTS06O_ntmxhaZyBVQ-AlsWQHDhN4",
-    authDomain: "push-notification-9f70e.firebaseapp.com",
-    databaseURL: "https://push-notification-9f70e.firebaseio.com",
-    projectId: "push-notification-9f70e",
-    storageBucket: "push-notification-9f70e.appspot.com",
-    messagingSenderId: "841978021460",
-    appId: "1:841978021460:web:c8a8ac5de9f46ba413cfc1",
-    measurementId: "G-KGQR8R3T5P",
+    apiKey: “from firebase config”,
+   authDomain: “from firebase config”,
+   databaseURL: “from firebase config”,
+   projectId: “from firebase config”,
+   storageBucket: “from firebase config”,
+   messagingSenderId: “from firebase config”,
+   appId: “from firebase config”,
+   measurementId: “from firebase config”
   },
 };
 
